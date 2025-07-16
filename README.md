@@ -1,6 +1,9 @@
 # Demo
+
 First repository
 <br>
 Lakshmi Bhavani
 Durga
-7/16/25
+
+Today is 7/16/25. Let's complete Git&Github Practical Learning.
+And py rev
